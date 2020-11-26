@@ -3,3 +3,5 @@
 *.class
 *.kotlin_module
 *.kotlin_builtins
+*.log
+*.ttf
