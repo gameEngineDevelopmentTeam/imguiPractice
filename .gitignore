@@ -1,2 +1,5 @@
 *.iml
 /.idea/
+*.class
+*.kotlin_module
+*.kotlin_builtins
